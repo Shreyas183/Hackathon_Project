@@ -45,6 +45,7 @@ No frontend or database is used. The focus is entirely on **core logic and accur
 
 ## 4. Project Structure
 
+```
 nexora-product-normalizer/
 │
 ├── data/
@@ -66,7 +67,7 @@ nexora-product-normalizer/
 ├── package.json
 └── README.md
 
-
+```
 ---
 
 ## 5. Approach & Methodology
@@ -203,4 +204,5 @@ Includes all original columns plus:
 npm install
 npm start
 ```
+
 
